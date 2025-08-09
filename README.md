@@ -1,6 +1,6 @@
 # ImageInsight
 
-Welcome to the **ImageInsight** repository! This project presents a solution for an image classification competition, most likely hosted by the IEEE Computer Society.
+Welcome to the **ImageInsight** repository! This project presents a solution for an image classification competition.
 
 ## 🚀 Project Overview
 
